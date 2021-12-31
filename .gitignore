@@ -6,3 +6,4 @@ ChessCPP/**
 !.gitignore
 !chessgraphics.png
 !Makefile
+!*.md
