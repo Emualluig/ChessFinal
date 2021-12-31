@@ -1,0 +1,8 @@
+ChessCPP/**
+
+*
+!*.cc
+!*.h
+!.gitignore
+!chessgraphics.png
+!Makefile
