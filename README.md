@@ -2,12 +2,12 @@
 Chess Engine with computer players written for a CS final.
 
 ## Features
- - Four levels of computers
+ - Four levels of computer difficulty
  - Only accepts valid moves
  - Unlimited move undos
  - Custom board setup mode
  - View the pieces visually drawn on a window (linux only)
- - All chess moves are possible
+ - All legal chess moves are possible
  - Checkmate, stalemate, insuffiant material detection
 
 ![Image of the graphical chessboard](https://github.com/Emualluig/ChessFinal/blob/main/chessgraphics.png)
